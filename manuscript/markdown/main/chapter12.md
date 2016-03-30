@@ -1,4 +1,4 @@
-# Internet of Things {#iot}
+# 12. Internet of Things {#iot}
 
 ![10,000' view of IoT Security](images/10000IoT.gif)
 
