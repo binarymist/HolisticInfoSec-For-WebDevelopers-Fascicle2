@@ -2,6 +2,11 @@
 
 # Attributions
 
+## Introduction
+
+**Bruce Schneier Sensible Security Model (SSM)**  
+[http://www.win.tue.nl/~wstomv/quotes/beyond-fear.html](http://www.win.tue.nl/~wstomv/quotes/beyond-fear.html)
+
 ## [Mobile](#mobile)
 
 **Sells cell phone tracking systems** to both corporations and governments worldwide.
