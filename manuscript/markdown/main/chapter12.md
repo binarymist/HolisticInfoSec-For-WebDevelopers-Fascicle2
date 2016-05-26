@@ -4,6 +4,9 @@
 
 _Todo_
 
+%% Presentation at AusCERT2016 "Hardware Hacking Chronicles: IoT Hacking for Offence and Defence" by Fatih Ozavci had many good resources. I sent email requesting slide-deck with all the hardware bits he's using.
+%% https://iotsecuritywiki.com/
+
 %% Possibly call this chapter Internet of Compromisable Things (IoCT)
 
 %% https://www.youtube.com/playlist?list=PL9fPq3eQfaaBAmA0G2oEptwL0tpCAZJ_b
