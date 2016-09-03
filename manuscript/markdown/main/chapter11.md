@@ -1,6 +1,6 @@
 # 11. Mobile {#mobile}
 
-![10,000' view of Mobile Security](images/10000Mobile.gif)
+![10,000' view of Mobile Security](images/10000Mobile.png)
 
 _Todo_
 
