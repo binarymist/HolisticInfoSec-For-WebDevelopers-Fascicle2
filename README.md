@@ -17,7 +17,7 @@ If there is something you would like to see included in this fascicle, please [s
 
 ## Table of Contents
 
-* Foreward (by ?)
+* [Foreward](manuscript/markdown/front/foreword.md)
 * [Preface](manuscript/markdown/front/preface.md)
 * [Introduction](manuscript/markdown/front/introduction.md)
 * [Chapter 11: Mobile](manuscript/markdown/main/chapter11.md)

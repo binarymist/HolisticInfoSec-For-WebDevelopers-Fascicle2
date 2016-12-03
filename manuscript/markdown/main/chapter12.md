@@ -16,6 +16,8 @@ _Todo_
 %% They are a pretty good alternative to Teensy, and there's even a script that can convert Ducky Scripts to run on them - although I haven't had much luck with it:
 %% http://www.adebenham.com/files/leo/compile_payload.sh
 
+%% malware that took down krebs with many IoT devices: https://github.com/0x27/linux.mirai
+
 Bruce Schneier has good [insight](http://www.networkworld.com/article/2909212/security0/schneier-on-really-bad-iot-security-it-s-going-to-come-crashing-down.html) on the problems to come I believe.
 
 If you think of the attack surface that Wi-Fi brought with it, you could probably double that for what we are going to experience with IoT, and I fear that may be an underestimate.
