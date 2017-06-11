@@ -20,6 +20,9 @@ _Todo_
 
 Bruce Schneier has good [insight](http://www.networkworld.com/article/2909212/security0/schneier-on-really-bad-iot-security-it-s-going-to-come-crashing-down.html) on the problems to come I believe.
 
+%% https://www.linux.com/news/event/open-source-leadership-summit/2017/3/bruce-schneier-new-security-threats-internet-things
+%% https://www.schneier.com/blog/archives/2017/02/security_and_pr.html
+
 If you think of the attack surface that Wi-Fi brought with it, you could probably double that for what we are going to experience with IoT, and I fear that may be an underestimate.
 
 https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project
@@ -40,3 +43,12 @@ _Todo_
 %% Submit CFP to Saturn no later than January 15, 2016.
 
 %% See TimS_IoT
+
+%% BSidesLV talk: Crash The IoT Train Yourself: https://t.co/jJof0frCmW
+
+
+%% Submit PR once this fascicle is moving: https://github.com/ashishb/android-security-awesome/issues/58
+
+%% Metasploit module for testing IoT devices: http://www.darkreading.com/iot/new-metasploit-extension-available-for-testing-iot-device-security/d/d-id/1328452
+%% https://community.rapid7.com/community/metasploit/blog/2017/03/21/metasploits-rf-transceiver-capabilities?platform=hootsuite
+

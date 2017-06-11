@@ -17,6 +17,11 @@ https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
 
 _Todo_
 
+%% https://labs.mwrinfosecurity.com/tools/drozer/
+%% https://www.google.co.nz/search?q=genymotion
+%% https://inteltechniques.com/wp/2017/03/24/installing-android-apps-in-chrome-browser/
+
+
 ## 1. SSM Asset Identification
 Take results from [higher level Asset Identification](#starting-with-the-30000-foot-view-asset-identification). Remove any that are not applicable. Add any newly discovered. Here are some to get you started:
 
