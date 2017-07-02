@@ -4,6 +4,8 @@
 
 _Todo_
 
+%% Talk about how IoT is going to kill us due to an explosion of open sockets: https://vimeo.com/135347162
+
 %% Presentation at AusCERT2016 "Hardware Hacking Chronicles: IoT Hacking for Offence and Defence" by Fatih Ozavci had many good resources. I sent email requesting slide-deck with all the hardware bits he's using.
 %% https://iotsecuritywiki.com/
 
