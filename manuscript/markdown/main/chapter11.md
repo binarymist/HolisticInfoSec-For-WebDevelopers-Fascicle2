@@ -4,6 +4,16 @@
 
 _Todo_
 
+%% OWTF: https://www.owasp.org/index.php/OWASP_OWTF
+
+%% Secure Messaging:
+%%   https://briarproject.org/
+%%   https://briarproject.org/manual/
+%%   https://twitter.com/BriarApp
+
+%% Learn react native, functional programming, web assembly
+
+
 Some resources to start with:  
 https://bluebox.com/business/bluebox-and-nist-addressing-mobile-threats/  
 https://media.blackhat.com/bh-us-12/Briefings/C_Miller/BH_US_12_Miller_NFC_attack_surface_WP.pdf
@@ -14,6 +24,8 @@ https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
 %% https://www.owasp.org/index.php/OWASP_Mobile_Security_Project
 
 %% I will probably use [NetHunter](https://www.kali.org/kali-linux-nethunter/) to get up and running quickly on a mobile device.
+
+%% JavaScript coding on Android: https://www.npmjs.com/package/androidify
 
 _Todo_
 

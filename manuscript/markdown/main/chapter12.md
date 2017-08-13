@@ -4,6 +4,12 @@
 
 _Todo_
 
+%% Surveillance project with JavaScript and machine learning face detection as per project in my Personal trello.
+
+%% Listened to this: https://hanselminutes.com/521/march-is-for-makers-arduinos-javascript-and-johnny-five-with-lyza-danger-gardner
+
+%% https://shahmeeramir.com/conducting-an-iot-pentest-6fa573ac6668
+
 %% Talk about how IoT is going to kill us due to an explosion of open sockets: https://vimeo.com/135347162
 
 %% Presentation at AusCERT2016 "Hardware Hacking Chronicles: IoT Hacking for Offence and Defence" by Fatih Ozavci had many good resources. I sent email requesting slide-deck with all the hardware bits he's using.
