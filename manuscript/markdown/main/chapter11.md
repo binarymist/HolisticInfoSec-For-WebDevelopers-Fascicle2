@@ -4,6 +4,8 @@
 
 _Todo_
 
+%% https://github.com/ashishb/android-security-awesome
+
 %% OWTF: https://www.owasp.org/index.php/OWASP_OWTF
 
 %% Secure Messaging:
