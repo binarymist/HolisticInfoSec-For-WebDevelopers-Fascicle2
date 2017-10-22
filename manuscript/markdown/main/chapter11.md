@@ -25,6 +25,8 @@ https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
 
 %% https://www.owasp.org/index.php/OWASP_Mobile_Security_Project
 
+%% https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide
+
 %% I will probably use [NetHunter](https://www.kali.org/kali-linux-nethunter/) to get up and running quickly on a mobile device.
 
 %% JavaScript coding on Android: https://www.npmjs.com/package/androidify
