@@ -6,7 +6,7 @@
 Focussing on: Mobile and IoT
 
 
-The contents of Fascicle 2 that's a work in progress is listed below, and can be found at the books [landing page](https://f1.holisticinfosecforwebdevelopers.com/).
+The contents of Fascicle 2 that's a work in progress is listed below, and can be found at the books [landing page](https://f2.holisticinfosecforwebdevelopers.com/).
 
 The entire book series can be found [here](https://holisticinfosecforwebdevelopers.com/) at [www.holisticinfosecforwebdevelopers.com](https://holisticinfosecforwebdevelopers.com/)
 
