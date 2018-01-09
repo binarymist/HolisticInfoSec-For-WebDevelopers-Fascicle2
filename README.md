@@ -1,15 +1,13 @@
 # Holistic InfoSec For Web Developers
 ## Fascicle 2
-Mobile and IoT
+Focussing on: Mobile and IoT
 
-To access the original (now out of date) training which the book was based on, head on over to the [wiki](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers/wiki/BinaryMist-Approach-To-Threat-Modelling) to get started.
 
-The contents of fascicle 2 that's a WIP is listed below. The actual fascicle can be found [here](https://leanpub.com/holistic-infosec-for-web-developers-fascicle2-mobile-iot).
+The contents of fascicle 2 that's a work in progress is listed below, and can be found at the books [landing page](https://f1.holisticinfosecforwebdevelopers.com/).
 
 If there is something you would like to see included in this fascicle, please [submit an issue](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2/issues) for consideration.
 
-[![Stories in Ready](https://badge.waffle.io/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2.png?label=ready&title=Ready)](https://waffle.io/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2)
-[![Stories in Progress](https://badge.waffle.io/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2.png?label=in%20progress&title=In%20Progress)](https://waffle.io/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2)
+<br>
 
 [![](manuscript/images/title_page.png)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle2-mobile-iot)
 
