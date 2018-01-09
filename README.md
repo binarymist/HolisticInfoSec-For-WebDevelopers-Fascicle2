@@ -1,9 +1,14 @@
 # Holistic InfoSec For Web Developers
 ## Fascicle 2
+
+[f2.holisticinfosecforwebdevelopers.com](https://f2.holisticinfosecforwebdevelopers.com/)
+
 Focussing on: Mobile and IoT
 
 
 The contents of Fascicle 2 that's a work in progress is listed below, and can be found at the books [landing page](https://f1.holisticinfosecforwebdevelopers.com/).
+
+The entire book series can be found [here](https://holisticinfosecforwebdevelopers.com/) at [www.holisticinfosecforwebdevelopers.com](https://holisticinfosecforwebdevelopers.com/)
 
 If there is something you would like to see included in this fascicle, please [submit an issue](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2/issues) for consideration.
 
