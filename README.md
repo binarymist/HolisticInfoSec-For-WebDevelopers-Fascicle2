@@ -14,7 +14,7 @@ If there is something you would like to see included in this fascicle, please [s
 
 <br>
 
-[![](manuscript/images/title_page.png)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle2-mobile-iot)
+[![Holistic Info-Sec For Web Developers](manuscript/images/title_page.png)](https://f2.holisticinfosecforwebdevelopers.com)
 
 <br>
 
