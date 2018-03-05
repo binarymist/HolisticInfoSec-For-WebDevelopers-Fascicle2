@@ -8,7 +8,7 @@ Focussing on: Mobile and IoT
 
 The contents of Fascicle 2 that's a work in progress is listed below, and can be found at the books [landing page](https://f2.holisticinfosecforwebdevelopers.com/).
 
-[![Complete](https://img.shields.io/badge/complete-1%25-orange.svg)](https://f2.holisticinfosecforwebdevelopers.com/) &nbsp; [![Read online](https://img.shields.io/badge/read%20free-book%20landing%20page-green.svg)](https://f2.holisticinfosecforwebdevelopers.com/) &nbsp; [![Buy on Leanpub](https://img.shields.io/badge/buy-leanpub-green.svg)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle2-mobile-iot) &nbsp; [![Authors homepage](https://img.shields.io/badge/author%27s-other%20books-blue.svg)](https://binarymist.io/publication/kims-selected-publications/)
+[![Complete](https://img.shields.io/badge/complete-1%25-orange.svg)](https://f2.holisticinfosecforwebdevelopers.com/) &nbsp; [![Read online](https://img.shields.io/badge/read%20free-book%20landing%20page-green.svg)](https://f2.holisticinfosecforwebdevelopers.com/) &nbsp; [![Buy on Leanpub](https://img.shields.io/badge/buy-leanpub-green.svg)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle2-mobile-iot) &nbsp; [![Authors other books](https://img.shields.io/badge/author%27s-other%20books-blue.svg)](https://binarymist.io/publication/kims-selected-publications/)
 
 The entire book series can be found [here](https://holisticinfosecforwebdevelopers.com/) at [www.holisticinfosecforwebdevelopers.com](https://holisticinfosecforwebdevelopers.com/)
 
